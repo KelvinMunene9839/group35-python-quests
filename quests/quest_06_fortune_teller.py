@@ -1,7 +1,7 @@
+# Quest 6: The Fortune Teller
+# Concept: input() - Ask the user a question and receive their answer.
 
-name = input("What is your name, traveller? ")
-
+name = input("What is your name, traveler? ")
 quest = input("And what is your quest? ")
 
-print(f"\nAh, {name}! Your quest to '{quest}' has been noted.")
-print("The stars have been consulted. Your journey will be legendary!")
+print(f"Ah, {name}! Your quest to {quest} is a noble one. The stars guide your path!")
