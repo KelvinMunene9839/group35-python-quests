@@ -1,0 +1,32 @@
+[33m4d04156[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/KelvinMunene9839/group35-python-quests- into main
+[33mc6259dd[m Rename quest14_The_Logical_Gatekeeper.py to quest_14_The_Logical_Gatekeeper.py
+[33m2bbef3e[m Rename quest13_The_Maze_of_Many_Choices.py to quest_13_The_Maze_of_Many_Choices.py
+[33mf05f3e3[m Rename quest 11_The_Guardian_of_the_Bridge.py to quest_11_The_Guardian_of_the_Bridge.py
+[33m267ba68[m Merge branch 'main' of https://github.com/KelvinMunene9839/group35-python-quests- into main
+[33mb865d71[m Link commits to Soumaya896
+[33mcb4654f[m Add files via upload
+[33m1d2a3ea[m Add files via upload
+[33m5a754a2[m Delete quests/quest12_The_Two-Path_Cave.py
+[33mb466681[m Add files via upload
+[33m04c0bda[m Add files via upload
+[33m0c87a43[m quest 28: adventure begin
+[33mdef7f45[m Flatten structure: all quests in quests/ root and renamed
+[33m58d2b8b[m Add quest_26_the_simple_calculator.py file
+[33mb9c9329[m git push origin mainMerge branch 'main' of https://github.com/KelvinMunene9839/group35-python-quests- into main
+[33mf1926f9[m Add quest_25_number_wizard.py file
+[33m4c5b879[m git push origin mainMerge branch 'main' of https://github.com/KelvinMunene9839/group35-python-quests- into main
+[33m56b4e76[m Rename Level 5 and 6 quest files to follow standard naming convention
+[33mdc9ee5e[m Level 2: A Dialogue with the Machine (User Input & Basic Math)
+[33m3dd762f[m Flatten directory structure for Level 5 and 6
+[33me2d27c8[m Flatten directory structure: move quest files to quests/ root
+[33mb4bca00[m Add quests 4, 5, 7, 9, 10, 11, 13, 14, 15 to level folders
+[33md532085[m Merge branch 'main' of https://github.com/KelvinMunene9839/group35-python-quests- into main
+[33m089a79e[m Update Python code with new changes
+[33mea85eef[m Completed Level5 quests
+[33m95cf5fe[m Added Level 6 The Grand Challenge
+[33mac2069c[m Add Level 4 quests 16-20 by Soumaya896
+[33m54e2363[m Add quest 08 potion brewer
+[33mb9ecdf5[m Add quest 06 fortune teller
+[33m61796fc[m Add quest 02 naming ceremony
+[33m96aecf7[m Add quest 01 first spell
+[33m298474e[m Initial commit
